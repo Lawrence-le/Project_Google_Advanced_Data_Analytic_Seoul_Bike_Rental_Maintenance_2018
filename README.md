@@ -9,3 +9,5 @@ To achieve this, I am utilizing Tableau to design a data visualization that effe
 In the process of designing the visualization, my primary focus is on clarity, accessibility, and ethical considerations. The visualization should provide a clear representation of low-traffic times during standard work hours. I will use Tableau's features to filter and present the data in a visually appealing manner, making it accessible to stakeholders.
 
 Additionally, I also created another visual that divide the bike rental by season to show what are the best low peak time of the day during different seasons to carry out maintenance.
+
+![alt text][Weekday all season]
