@@ -1,4 +1,6 @@
-# Project_Google_Advanced_Data_Analytic_Seoul_Bike_Rental_Maintenance_2018
+# Seoul_Bike_Rental_Maintenance_2018
+## Google Advanced Data Analytic Project
+## Descriptive Analytics
 
 ## Scenario
 
