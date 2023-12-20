@@ -1,8 +1,8 @@
 # Seoul_Bike_Rental_Maintenance_2018
 ## Google Advanced Data Analytic Project
-## Descriptive Analytics
+#### Descriptive Analytics
 
-## Scenario
+### Scenario
 
 In my current project as a data professional consulting for the Seoul transportation department, I'm tasked with analyzing the rented bicycle data from 2018. The director of the department has specifically requested insights into the best time of day for maintenance teams to repair bikes. The goal is to schedule maintenance during lower traffic times while adhering to standard working hours (8 a.m. to 5 p.m).
 
@@ -13,7 +13,7 @@ In the process of designing the visualization, my primary focus is on clarity, a
 Additionally, I also created another visual that divide the bike rental by season to show what are the best low peak time of the day during different seasons to carry out maintenance.
 
 ## Weekday all seasons
-![](/Weekday%20all%20season.png)
+![](/weekday_all_season.png)
 
 ## Weekday by seasons
-![](/Weekday%20by%20season.png)
+![](/weekday_by_season.png)
