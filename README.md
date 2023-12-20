@@ -10,5 +10,6 @@ In the process of designing the visualization, my primary focus is on clarity, a
 
 Additionally, I also created another visual that divide the bike rental by season to show what are the best low peak time of the day during different seasons to carry out maintenance.
 
-![](/Weekday all season.png)
-![](/image/sheet4.jpg)
+![](/Weekday%20all%20season.png)
+![](/Weekday%20all%20season.png)
+
